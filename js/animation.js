@@ -706,6 +706,10 @@ var workSwiper = new Swiper(".workSwiper", {
       slidesPerView: 0.568,
       spaceBetween: 15,
     },
+    450: {
+      slidesPerView: 1,
+      spaceBetween: 15,
+    },
     400: {
       slidesPerView: 1.04,
       spaceBetween: 15,
