@@ -698,7 +698,7 @@ var workSwiper = new Swiper(".workSwiper", {
     },
 
     1366: {
-      slidesPerView: 1.44,
+      slidesPerView: 1.45,
       spaceBetween: 60,
     },
     // Add more breakpoints as needed
