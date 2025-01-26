@@ -707,7 +707,7 @@ var workSwiper = new Swiper(".workSwiper", {
       spaceBetween: 15,
     },
     450: {
-      slidesPerView: 1,
+      slidesPerView: 0.7,
       spaceBetween: 15,
     },
     400: {
