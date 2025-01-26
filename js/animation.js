@@ -678,7 +678,7 @@ var workSwiper = new Swiper(".workSwiper", {
   slidesPerView: 1.55,
   // slidesPerView: 1.17,
   // spaceBetween: 50,
-  spaceBetween: 60,
+  spaceBetween: 0,
   freeMode: true,
   pagination: {
     el: ".swiper-pagination",
