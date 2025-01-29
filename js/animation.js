@@ -675,10 +675,10 @@ window.addEventListener("resize", debounce(applyGsapAnimations, 200));
 
 //  Initialize Swiper //
 var workSwiper = new Swiper(".workSwiper", {
-  slidesPerView: 1.55,
+  slidesPerView: 1.1,
   // slidesPerView: 1.17,
   // spaceBetween: 50,
-  spaceBetween: 0,
+  spaceBetween: 60,
   freeMode: true,
   pagination: {
     el: ".swiper-pagination",
@@ -688,35 +688,31 @@ var workSwiper = new Swiper(".workSwiper", {
   breakpoints: {
     // When the screen width is >= 768px
     768: {
-      slidesPerView: 1.165,
-      spaceBetween: 50,
+      slidesPerView: 1,
+      spaceBetween: 0,
     },
     // When the screen width is >= 1024px
     1024: {
-      slidesPerView: 1.17,
-      spaceBetween: 60,
+      slidesPerView: 1,
+      spaceBetween: 0,
     },
 
     1366: {
-      slidesPerView: 1.4425,
-      spaceBetween: 60,
+      slidesPerView: 1.497,
+      spaceBetween: 0,
     },
     // Add more breakpoints as needed
-    350: {
-      slidesPerView: 0.568,
-      spaceBetween: 15,
-    },
-    450: {
-      slidesPerView: 1.1,
-      spaceBetween: 15,
+    375: {
+      slidesPerView: 1.001,
+      spaceBetween: 0,
     },
     400: {
-      slidesPerView: 1.04,
-      spaceBetween: 15,
+      slidesPerView: 1,
+      spaceBetween: 0,
     },
     350: {
-      slidesPerView: 1.04,
-      spaceBetween: 15,
+      slidesPerView: 1,
+      spaceBetween: 0,
     },
   },
 });

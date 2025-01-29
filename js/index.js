@@ -49,6 +49,7 @@ questions.forEach((question) => {
 // ACCORDION //
 
 
+
 const burger = document.querySelector(".burger");
 burger.addEventListener("click", function () {
   this.classList.toggle("active");
@@ -64,5 +65,4 @@ service_arrow.addEventListener("click", function () {
   );
   service_link_container.classList.toggle("active");
 });
-
 

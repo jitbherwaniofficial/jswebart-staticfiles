@@ -289,7 +289,12 @@
 }
 
 .sw {
-  padding: 30px;
+  padding: 0px;
+}
+
+.ss_slide {
+  width: 100% !important;
+  height: 65vw !important;
 }
 
 .ss_slide {
@@ -299,7 +304,7 @@
   justify-content: center;
   align-items: center;
   width: 60vw !important;
-  height: 35vw !important;
+  height: 38vw !important;
   /* padding: 10px; */
 }
 
@@ -671,6 +676,8 @@
   display: none;
 }
 
+
+
 /* UPPER FOOTER CTA END *********************************** */
 
 
@@ -874,11 +881,6 @@
   }
 
 
-  .ss_slide {
-    width: 75vw !important;
-    height: 40vw !important;
-  }
-
   .test_quotes {
     width: 100%;
 }
@@ -928,6 +930,14 @@
   width: 30% !important;
 }
 
+.sw {
+  padding: 0px;
+}
+
+.ss_slide {
+  width: 100% !important;
+  height: 65vw !important;
+}
 
 }
 
@@ -1088,6 +1098,15 @@
 #cta_process_title {
   font-size: 4.5vw !important;
   width: 65%;
+}
+
+.sw {
+  padding: 0px;
+}
+
+.ss_slide {
+  width: 100% !important;
+  height: 65vw !important;
 }
 
 }
