@@ -204,7 +204,7 @@ gsap.to("#featured_work_anchor1", {
     trigger: "#featured_work_anchor1",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -217,7 +217,7 @@ gsap.to("#featured_work_anchor2", {
     trigger: "#featured_work_anchor2",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -230,7 +230,7 @@ gsap.to("#featured_work_anchor3", {
     trigger: "#featured_work_anchor3",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -243,7 +243,7 @@ gsap.to("#featured_work_anchor4", {
     trigger: "#featured_work_anchor4",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -256,7 +256,7 @@ gsap.to("#featured_work_anchor5", {
     trigger: "#featured_work_anchor5",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -269,7 +269,7 @@ gsap.to("#featured_work_anchor6", {
     trigger: "#featured_work_anchor6",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -282,7 +282,7 @@ gsap.to("#featured_work_anchor7", {
     trigger: "#featured_work_anchor7",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
@@ -295,7 +295,7 @@ gsap.to("#featured_work_anchor8", {
     trigger: "#featured_work_anchor8",
     scroller: "body",
     start: "top 100%",
-    end: "top 90%",
+    end: "top 60%",
     scrub: 5,
   },
 });
