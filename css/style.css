@@ -1005,6 +1005,10 @@ span {
   height: 40vw;
 }
 
+.anchor_ {
+  transform-origin: center !important;
+}
+
 #featured_work_anchor1 {
   width: 35%;
   display: flex;
