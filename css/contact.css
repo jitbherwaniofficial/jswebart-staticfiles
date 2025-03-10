@@ -319,12 +319,12 @@ small {
 
 #recaptcha_box {
     width: 40%;
-    height: 10vw;
-    border: 1px solid var(--dark-black-clr);
+    /* height: 10vw; */
+    /* border: 1px solid var(--dark-black-clr); */
     margin-top: 5vw;
     color: var(--dark-black-clr);
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     font-family: var(--poppin-font);
 }
