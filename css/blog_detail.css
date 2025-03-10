@@ -1230,6 +1230,26 @@
         text-decoration: none;
     }
 
+    .links_container>h3 {
+        font-size: 5vw;
+    }
+
+    .links_container>h4 {
+        font-size: 4.6vw;
+    }
+
+    .links_container>ul, .links_container>ol {
+        padding-left: 3vw;
+        padding-top: 1.5vw;
+    }
+
+    .links_container>ul li, .links_container>ol li {
+        padding: 1vw 0;
+        font-size: 4vw;
+        line-height: 1.5;
+    }
+
+
 }
 
 /* RESPONSIVE MEDIA QUERIES ************************************************************ */
