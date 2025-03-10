@@ -628,10 +628,16 @@ small {
 }
 
 #join_social_media_container a:hover:nth-child(2) svg .icons,
-#join_social_media_container a:hover:nth-child(4) svg .icons,
 #join_social_media_container a:hover:nth-child(5) svg .icons {
     fill: var(--dark-black-clr);
 }
+
+
+#join_social_media_container a:hover:nth-child(4) svg .icons {
+    stroke: #14151c;
+    fill: transparent;
+}
+
 
 #join_social_media_container a svg {
     width: 60%;
