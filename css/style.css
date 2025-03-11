@@ -28,6 +28,11 @@
   scroll-behavior: smooth;
 }
 
+*::selection {
+  color: var(--dark-black-clr) !important;
+  background-color: var(--green-clr) !important;
+}
+
 body {
   background-color: var(--dark-black-clr);
   color: var(--white-clr);
