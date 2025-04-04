@@ -2422,6 +2422,8 @@ span {
   margin: 0 auto;
   border-top-right-radius: 2vw;
   border-bottom-right-radius: 2vw;
+  position: relative;
+  z-index: 2;
 }
 
 .faq_container {
